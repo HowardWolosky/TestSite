@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+logo: ./PSfGH.png
+title: PowerShellForGitHub - Automate GitHub at the command-line with PowerShell
+description: A PowerShell module for interfacing with GitHub
